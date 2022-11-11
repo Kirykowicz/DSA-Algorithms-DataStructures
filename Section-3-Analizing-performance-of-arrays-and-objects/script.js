@@ -7,8 +7,8 @@
 // Big O of Objects
 // Insertion - O(1)
 // Removal - O(1)
-// Searching - O(n)
-// Access - O(1)
+// Searching - O(n) - for a value, not a key
+// Access - O(1) - for a key, not a value
 
 // Big O of Object Methods
 // Object.keys - O(n)
@@ -34,5 +34,5 @@
 // concat - O(n)
 // slice - O(n)
 // splice - O(n)
-// sort - O(n*logn)
+// sort - O(n*log(n))
 // forEach/map/filter/reduce/etc. - O(n)

@@ -16,6 +16,7 @@
 // 2. Explore concrete examples
 // 3. Break it down
 // 4. Solve/Simplify
+//  - If you can't, then solve a simpler problem
 // 5. Look back and refactor
 
 // UNDERSTAND THE PROBLEM ---
@@ -47,7 +48,7 @@
 // Can you check the result?
 // Can you derive the result differently?
 // Can you understand it at a glance?
-// Can you use the result or mehod for some other problem?
+// Can you use the result or method for some other problem?
 // Can you improve the performance of your solutions?
 // Can you think of other ways to refactor?
 // How have other people solved this problem?
